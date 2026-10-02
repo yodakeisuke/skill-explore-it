@@ -11,6 +11,12 @@ Claude Code の Agent Skill。エージェントに「探索的テスト」を�
 ## インストール
 
 ```bash
+npx skills add yodakeisuke/skill-explore-it
+```
+
+または直接 clone する。
+
+```bash
 git clone https://github.com/yodakeisuke/skill-explore-it.git ~/.claude/skills/explore-it
 ```
 
